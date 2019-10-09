@@ -1,0 +1,11 @@
+[type="text"]{
+    color: gray;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+[type="button"]{
+    font-size: 40px;
+    color: goldenrod !important;
+    font-weight: 400;
+}
